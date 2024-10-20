@@ -42,4 +42,5 @@ public class Permission {
     public void setMethod(String method) {
         this.method = method;
     }
+
 }
