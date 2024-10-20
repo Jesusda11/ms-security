@@ -37,7 +37,9 @@ public class User {
         return email;
     }
 
-
+    public String getPassword() {
+        return password;
+    }
 
     public void set_id(String _id) {
         this._id = _id;
